@@ -1,86 +1,33 @@
 <div align="center">
-█▄▄ █▀▀ █▄░█ ▄▀█ █░░ █   █▀▀ █░█ █▀▀ █▀█ █ █▀▀
-█▄█ ██▄ █░▀█ █▀█ █▄▄ █   █▄▄ █▀█ ██▄ █▀▄ █ █▀░
 
-### `~/benali-cherif-souleyman`
-**Cybersecurity Engineering Student | Software Developer | Building Real-World Systems 🚀**
+<h1>Benali Cherif Souleyman</h1>
+<h3>Cybersecurity Engineering Student · Software Developer</h3>
+
+<br/>
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Souleyman_bac)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/soulaiman_benali_cherif)
+[![Email](https://img.shields.io/badge/Email-soulimanbenali123@gmail.com-informational?style=flat&logo=gmail&logoColor=white)](mailto:soulimanbenali123@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+**About**&nbsp;&nbsp;`4th-year Cybersecurity Engineering student`&nbsp;·&nbsp;`Linux daily driver`&nbsp;·&nbsp;`Building real-world systems`
 
-```bash
-$ whoami
-> 4th-year Engineering Student — Cybersecurity
-> Cross-platform mobile & desktop developer
-> Linux daily driver
-> Interested in Security, Systems & Software Architecture
-> Focused on efficient, scalable, and practical solutions
-```
+**Focus**&nbsp;&nbsp;&nbsp;`Cybersecurity` `Mobile Dev` `Desktop Apps` `Software Architecture` `Security Labs`
 
----
-
-## 🚀 What I Do
-
-- 📱 Develop cross-platform mobile applications with **Flutter**
-- 🖥️ Build desktop software and system-based tools
-- 🔐 Explore cybersecurity concepts and hands-on labs
-- 🧪 Work on academic & personal projects to improve real-world skills
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souleyman-benali-cherif&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souleyman-benali-cherif&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/Souleyman_bac" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/soulaiman_benali_cherif" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-## 📫 Contact
-
-- 📧 **[soulimanbenali123@gmail.com](mailto:soulimanbenali123@gmail.com)**
+**Stack**&nbsp;&nbsp;&nbsp;![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 <div align="center">
 
-*> Build systems. Solve problems. Keep learning.*
+<img src="https://github-readme-stats.vercel.app/api?username=souleyman-benali-cherif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souleyman-benali-cherif&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
+
+---
+
+<div align="center"><sub><i>Build systems. Solve problems. Keep learning.</i></sub></div>
